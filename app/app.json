@@ -20,10 +20,16 @@
       "supportsTablet": true
     },
     "android": {
+      "config":{
+        "googleMaps":{
+          "apiKey":"AIzaSyD-9tSrke72PouQMnMX-a7eZSW0jkFMBWY"
+        }
+      },
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "Earth.chan"
     },
     "web": {
       "favicon": "./assets/favicon.png"
