@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "app",
+    "name": "RA-IlhamNofriYandra-119140133-Tugas Individu 4",
     "slug": "app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,7 +22,7 @@
     "android": {
       "config":{
         "googleMaps":{
-          "apiKey":"AIzaSyD-9tSrke72PouQMnMX-a7eZSW0jkFMBWY"
+          "apiKey":"AIzaSyCBspKHQNOr-JM70KTePtW4BUFRrZEQKqc"
         }
       },
       "adaptiveIcon": {
